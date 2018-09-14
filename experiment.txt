@@ -17,3 +17,11 @@ etf
 stocks
 otions
 foreign exchange
+
+Here let me add some dynamic assets:
+cars
+jewelries
+cash
+check
+credit card
+
