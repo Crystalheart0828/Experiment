@@ -3,6 +3,8 @@ Try to add fixed assets!!
 blue
 pink
 red
+BLACK
+GREY
 purple
 green
 navy
