@@ -1,4 +1,5 @@
-The very first experiment
+Try to add fixed assets!!
+
 blue
 pink
 red
@@ -7,3 +8,12 @@ green
 navy
 orange
 yellow
+
+Here let me add some fixed assets:
+mutual fund
+real estate
+insurance
+etf
+stocks
+otions
+foreign exchange
